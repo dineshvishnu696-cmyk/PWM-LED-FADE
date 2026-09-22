@@ -1,6 +1,7 @@
 # PWM-LED-FADE
-To perfrom Fade LED In and Out using Software-Controlled PWM Ramp
----
+## Aim
+To perform Fade LED In and Out using Software-Controlled PWM Ramp
+
 
 ## Apparatus Required
 
